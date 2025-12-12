@@ -1,4 +1,4 @@
-# Blogger-s-den
+# Blogger's-den
 Blogger’s Den is a fully responsive blogging platform built using React, Node.js, and MongoDB.
 It enables users to publish articles, explore trending tech content, switch between dark/light themes, and manage their profile in a clean, fast, and elegant interface.
 
