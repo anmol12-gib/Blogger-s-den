@@ -59,7 +59,7 @@ Happy writing!
 
   try {
     await mailTransporter.sendMail(mailOptions);
-    console.log("✅ Welcome email sent to", toEmail);
+    console.log(" Welcome email sent to", toEmail);
   } catch (err) {
     console.error("Failed to send welcome email:", err.message || err);
   }
