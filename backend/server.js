@@ -880,5 +880,5 @@ cron.schedule("*/15 * * * *", () => {
 
 // ---- Start server ----
 app.listen(PORT, () => {
-  console.log(`✅ Backend API running on http://localhost:${PORT}`);
+  console.log(` Backend API running on http://localhost:${PORT}`);
 });
